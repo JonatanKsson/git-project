@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    background-color: aqua;
+}
+
+.header {
+    background-color: aquamarine;
+    padding: 24px;
+}
+
+.header-title {
+    color: blue;
+    font-size: 4rem;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main {
+    background-color: cadetblue;
+}
